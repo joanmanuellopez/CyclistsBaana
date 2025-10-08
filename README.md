@@ -23,7 +23,7 @@ La representación gráfica de los datos agregados mensualmente permiten observa
 * Grandes diferencias en el conteo entre los meses de verano y los de invierno
 * Descenso en el conteo en los meses de julio, posiblemente debido al periodo vacacional en la ciudad de Helsinki.
 
-## Descripción del notebook de Jupyter incluidos
+## Descripción del notebook de Jupyter incluído
 **timeseries_baana.ipynb**  
 Único notebook usado para el desarrollo de este proyecto, se estructura en tres partes principales:
 1. Carga de los datos y Análisis Exploratorio
